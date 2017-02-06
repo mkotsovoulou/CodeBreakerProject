@@ -18,3 +18,8 @@
 .message {
   font-weight: bold;
 }
+
+code {
+
+  color: black;
+}
